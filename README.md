@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://leetcard.jacoblin.cool/nagarajuswarna5?theme=unicorn)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nagswarnaa&theme=algolia&show_icons=true&locale=en" alt="nagswarnaa" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nagswarnaa&theme=algolia" alt="nagswarnaa" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagswarnaa&theme=algolia&show_icons=true&locale=en&layout=compact" alt="nagswarnaa" /></p><br/><br/><br/><br/><br/><br/><br/><br/>
