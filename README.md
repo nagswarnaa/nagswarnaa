@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nagswarnaa&theme=algolia" alt="nagswarnaa" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagswarnaa&theme=algolia&show_icons=true&locale=en&layout=compact" alt="nagswarnaa" /></p><br/><br/><br/><br/><br/><br/><br/><br/>
-![Profile View Counter](https://komarev.com/ghpvc/?username=CodeWhiteWeb&color=brightgreen)
+![Profile View Counter](https://komarev.com/ghpvc/?username=nagswarnaa&color=brightgreen)
 
