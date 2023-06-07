@@ -63,13 +63,13 @@ Welcome to the hub of my open source contributions! , and this unique repository
     <a href="https://github.com/Bouaskaoun"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
+<!-- ### <a href="https://github.com/Bouaskaoun"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> Programming Stats
 
-
-![](https://leetcard.jacoblin.cool/nagarajuswarna5?theme=unicorn)
-## GitHub statistics 🚀
+![](https://leetcard.jacoblin.cool/nagarajuswarna5?theme=unicorn) -->
+## 🚀 GitHub statistics 
 ![nagswarnaa's github stats](https://github-readme-stats.vercel.app/api?username=nagswarnaa&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nagswarnaa&theme=tokyonight" alt="mystreak"/>
-## Language statistics 🚀
+## <a href="https://github.com/Bouaskaoun"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> Language statistics
 ![nagswarnaa's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nagswarnaa&theme=tokyonight&layout=compact)
 
 
