@@ -10,7 +10,8 @@ Welcome to the hub of my open source contributions! , and this unique repository
 - 📫 How to reach me: **[Your Email or Another Way to Reach You]**.
 - 😄 Pronouns: **[Your Pronouns]**.
 - ⚡ Fun fact: **[A Fun Fact About You]**. -->
-## 🛠️ My Skills
+
+## 🛠️ Tech Stack
 
 ### 👉 Programming languages
 <p align="center"> 
