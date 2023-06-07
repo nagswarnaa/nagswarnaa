@@ -2,14 +2,11 @@
 
 Welcome to the hub of my open source contributions! , and this unique repository showcases my work, my learning journey, and a little bit about me as a developer:
 
-<!-- - 🔭 I’m currently working on **[Your Current Project]**.
-- 🌱 I’m currently learning **[Topic or Tool You're Learning]**.
-- 👯 I’m looking to collaborate on **[Type of Projects You're Looking to Collaborate on]**.
-- 🤔 I’m looking for help with **[What You Need Help With]**.
-- 💬 Ask me about **[Topics You're Comfortable Answering About]**.
-- 📫 How to reach me: **[Your Email or Another Way to Reach You]**.
-- 😄 Pronouns: **[Your Pronouns]**.
-- ⚡ Fun fact: **[A Fun Fact About You]**. -->
+- 🔭 I’m currently pursuing  **Masters** in **Computer Science** at **University of Texas Arlington**.
+- 🌱 I’m currently learning **ML and Deep Learning**.
+- 👯 I’m looking to collaborate on **Software Developement and Machine Learning**.
+- 💬 Ask me about **Software Developement, Machine Learning, Deep Learning**.
+- 😄 Pronouns: **He/Him**.
 
 ## 🛠️ Tech Stack
 
