@@ -7,7 +7,7 @@ Welcome to the hub of my open source contributions! , and this unique repository
 - 👯 I’m looking to collaborate on **Open Source Projects**.
 - 💬 Ask me about **Software Developement, Machine Learning, Deep Learning**.
 - 🤓 I write code on [Leetcode](https://leetcode.com/Akash_Chowrasia/) and [HackerRank](https://www.hackerrank.com/nagarajuswarna5?hr_r=1)<br>
-- 😄 Pronouns: 👨‍🎓.
+- 😄 Pronouns: **He/Him**.
 -  ⚡ **Fun Facts** : 🍕 👨‍💻 🎥 🚞 🎧
 
 ## 🛠️ Tech Stack
