@@ -2,11 +2,12 @@
 
 Welcome to the hub of my open source contributions! , and this unique repository showcases my work, my learning journey, and a little bit about me as a developer:
 
-- 🔭 I’m currently pursuing  **Masters** in **Computer Science** at **University of Texas Arlington**.
+- 🎓 I’m currently pursuing  **Masters** in **Computer Science** at **University of Texas Arlington**.
 - 🌱 I’m currently learning **ML and Deep Learning**.
 - 👯 I’m looking to collaborate on **Software Developement and Machine Learning**.
 - 💬 Ask me about **Software Developement, Machine Learning, Deep Learning**.
 - 😄 Pronouns: **He/Him**.
+-  ⚡ **Fun Facts** : 🍕 🏉 🎥 🚞
 
 ## 🛠️ Tech Stack
 
@@ -35,10 +36,11 @@ Welcome to the hub of my open source contributions! , and this unique repository
 </p>
 
 ![](https://leetcard.jacoblin.cool/nagarajuswarna5?theme=unicorn)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nagswarnaa&theme=algolia&show_icons=true&locale=en" alt="nagswarnaa" /></p>
+## GitHub statistics 🚀
+![nagswarnaa's github stats](https://github-readme-stats.vercel.app/api?username=nagswarnaa&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nagswarnaa&theme=tokyonight" alt="mystreak"/>
+## Language statistics 🚀
+![nagswarnaa's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nagswarnaa&theme=tokyonight&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nagswarnaa&theme=algolia" alt="nagswarnaa" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagswarnaa&theme=algolia&show_icons=true&locale=en&layout=compact" alt="nagswarnaa" /></p>
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=nagswarnaa&color=brightgreen)
