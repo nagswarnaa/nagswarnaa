@@ -1,4 +1,4 @@
-![Profile View Counter](https://komarev.com/ghpvc/?username=nagswarnaa&color=brightgreen)
+![Profile View Counter](https://komarev.com/ghpvc/?username=nagswarnaa&color=Profile%20views&color=0e75b6&style=flat)
 ### Hi there, I'm nag S!  👋
 
 Welcome to the hub of my open source contributions! , and this unique repository showcases my work, my learning journey, and a little bit about me as a developer:
