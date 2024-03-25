@@ -1,3 +1,4 @@
+![Profile View Counter](https://komarev.com/ghpvc/?username=nagswarnaa&color=brightgreen)
 ### Hi there, I'm nag S!  👋
 
 Welcome to the hub of my open source contributions! , and this unique repository showcases my work, my learning journey, and a little bit about me as a developer:
@@ -75,4 +76,4 @@ Welcome to the hub of my open source contributions! , and this unique repository
 ![nagswarnaa's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nagswarnaa&theme=tokyonight&layout=compact)
 
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=nagswarnaa&color=brightgreen)
+
