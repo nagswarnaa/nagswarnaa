@@ -3,7 +3,7 @@
 
 Welcome to the hub of my open source contributions! , and this unique repository showcases my work, my learning journey, and a little bit about me as a developer:
 
-- 🎓 I’m currently pursuing  **Masters** in **Computer Science** at **University of Texas Arlington**.
+- 🎓 Experienced Software Engineer.
 - 🌱 I’m currently learning **ML and Deep Learning**.
 - 👯 I’m looking to collaborate on **Open Source Projects**.
 - 💬 Ask me about **Software Developement, Machine Learning, Deep Learning**.
