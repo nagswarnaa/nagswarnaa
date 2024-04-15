@@ -7,7 +7,7 @@ Welcome to the hub of my open source contributions! , and this unique repository
 - 🌱 I’m currently learning **ML and Deep Learning**.
 - 👯 I’m looking to collaborate on **Open Source Projects**.
 - 💬 Ask me about **Software Developement, Machine Learning, Deep Learning**.
-- 🤓 I write code on [Leetcode](https://leetcode.com/nagarajuswarna5/) and [HackerRank](https://www.hackerrank.com/nagarajuswarna5?hr_r=1)<br>
+- 🤓 I write code on [Leetcode](https://leetcode.com/nagarajuswarna5/) <br>
 - 😄 Pronouns: **He/Him**.
 -  ⚡ **Fun Facts** : 🍕 👨‍💻 🎥 🚞 🎧
 
